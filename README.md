@@ -17,7 +17,7 @@ The design supports a variety of arithmetic and logical operations and includes 
 | `mp_top.v`       | Top-level module integrating ALU & register file    |
 | `alu_tb.v`       | Testbench for ALU module                            |
 | `reg_file_tb.v`  | Testbench for register file                         |
-| `assi_1212397.pdf`| Project report / assignment PDF                     |
+|                     |
 
 ---
 
